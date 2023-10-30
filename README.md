@@ -1,6 +1,5 @@
 # Label-To-Text-Transformer (LT3)
-LT3: repository for SynDa-Health 
-Read the [Paper](https://github.com/HECTA-UoM/Label-To-Text-Transformer/blob/main/61_generating_medical_instruction.pdf)
+LT3: repository for SynDa-Health [Paper](https://github.com/HECTA-UoM/Label-To-Text-Transformer/blob/main/61_generating_medical_instruction.pdf)
 
 # title: Generating Medical Instructions with Conditional Transformer
 
