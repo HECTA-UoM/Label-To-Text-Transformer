@@ -14,6 +14,10 @@ Access to real-world medical instructions is essential for medical research and 
 <img src="https://github.com/HECTA-UoM/Label-To-Text-Transformer/blob/main/task-example.jpeg" width="900">
 
 
+# Ripository in Huggingface 
+[LT3-for-inference-deployment](https://huggingface.co/SamySam0/LT3)
+
+
 ### If you use this repository, please cite:
 ```
 @InProceedings{LT3,
