@@ -17,6 +17,8 @@ Access to real-world medical instructions is essential for medical research and 
 # Ripository in Huggingface 
 [LT3-for-inference-deployment](https://huggingface.co/SamySam0/LT3)
 
+# Alternative maintaining page
+[LT3-with-Sam-Github](https://github.com/SamySam0/LT3)
 
 ### If you use this repository, please cite:
 ```
